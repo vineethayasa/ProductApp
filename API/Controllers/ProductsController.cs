@@ -7,23 +7,7 @@ namespace API.Controllers;
 [Route("api/[controller]")]
 public class ProductsController : ControllerBase
 {
-    private static readonly List<Product> Products = new()
-    {
-        new Product
-        {
-            Id = 1,
-            Name = "Laptop",
-            Description = "Dell Laptop",
-            Price = 75000
-        },
-        new Product
-        {
-            Id = 2,
-            Name = "Mouse",
-            Description = "Wireless Mouse",
-            Price = 1000
-        }
-    };
+    private static readonly List<Product> Products = new();
 
     [HttpGet]
     public ActionResult<IEnumerable<Product>> GetProducts()
@@ -47,7 +31,9 @@ public class ProductsController : ControllerBase
     [HttpPost]
     public ActionResult<Product> CreateProduct(Product product)
     {
-        product.Id = Products.Max(p => p.Id) + 1;
+        product.Id = Products.Count == 0
+            ? 1
+            : Products.Max(p => p.Id) + 1;
 
         Products.Add(product);
 

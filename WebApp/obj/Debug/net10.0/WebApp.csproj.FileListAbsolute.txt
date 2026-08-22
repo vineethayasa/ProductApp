@@ -18,9 +18,7 @@
 /home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/rjimswa.dswa.cache.json
 /home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
 /home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
-/home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
 /home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/scopedcss/bundle/WebApp.styles.css
-/home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/scopedcss/projectbundle/WebApp.bundle.scp.css
 /home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/compressed/cyyammxk5f-{0}-lugek5hnai-lugek5hnai.gz
 /home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/compressed/r0eh6qul5j-{0}-61n19gt1b8-61n19gt1b8.gz
 /home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/compressed/gd9znr7z8k-{0}-fr7q2aak1r-fr7q2aak1r.gz
@@ -83,8 +81,6 @@
 /home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/compressed/6k7fv1pfqa-{0}-muycvpuwrr-muycvpuwrr.gz
 /home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/compressed/xlfud65edp-{0}-87fc7y1x7t-87fc7y1x7t.gz
 /home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/compressed/y4mb16hq9n-{0}-jfsiqqwiad-jfsiqqwiad.gz
-/home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/compressed/nrt9wfei13-{0}-xfcswaeyou-xfcswaeyou.gz
-/home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/compressed/lcaz16i7pu-{0}-xfcswaeyou-xfcswaeyou.gz
 /home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/staticwebassets.build.json
 /home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/staticwebassets.build.json.cache
 /home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/staticwebassets.development.json
@@ -95,3 +91,4 @@
 /home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/WebApp.pdb
 /home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/WebApp.genruntimeconfig.cache
 /home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/ref/WebApp.dll
+/home/vineetha/ProductApp/WebApp/obj/Debug/net10.0/WebApp.sourcelink.json
