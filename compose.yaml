@@ -1,0 +1,12 @@
+services:
+  webapp:
+    build:
+      context: ./WebApp
+    ports:
+      - "3000:8080"
+    depends_on:
+      - api
+
+  api:
+    build:
+      context: ./API
